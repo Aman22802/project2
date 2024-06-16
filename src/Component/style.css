@@ -1,0 +1,80 @@
+
+ body{
+    text-align: center;
+   background-color: aquamarine;
+  
+ }
+
+ .input-form:focus-visible{
+
+   outline: none;
+
+}
+figcaption{
+   font-size: 30px;
+  
+}
+
+.imges img{
+   width: 105px;
+}
+
+ .input-form{
+   font-size: 16px;
+   position: relative;
+   width: 295px;
+   bottom: -2.8px;
+   /* border-right: 0 !important; */
+   border: 1px solid #fff;
+   padding: 5px;
+
+ }
+
+
+ .plus-icon i{
+   position: relative;
+   cursor: pointer;
+   bottom: 23px;
+   left: 132px;
+    
+}
+
+.input-two:focus-visible{
+   outline: none;
+}
+
+.multiple-icon i{
+   position: relative;
+   cursor: pointer;
+   left: 130px;
+   bottom: 87px;
+}
+
+.btn {
+    width: 123px;
+    height: 22px;
+    position: relative;
+    top: 25px;
+}
+
+.input-form{
+background-color: red;
+}
+
+h4{
+   position: relative;
+   bottom: 47px;
+   right: 124px;
+}
+
+.input-two{
+   font-size: 16px;
+    position: relative;
+    width: 301px;
+    border: 1px solid #fff;
+    padding: 5px;
+    bottom: -2.8px;
+    left: 1px;
+    background-color: violet;
+}
+
